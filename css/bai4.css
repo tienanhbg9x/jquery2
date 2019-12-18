@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.noidung {
+    background: lightblue;
+    padding: 75px;
+    margin: auto;
+    width: 37%;
+}
+
+img.demo {
+    width: 500px;
+}
