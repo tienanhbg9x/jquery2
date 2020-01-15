@@ -1,0 +1,93 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.lop_mo {
+  background: hsla(0, 0%, 0%, 0.23921568627450981);
+  width: 100%;
+  position: fixed;
+  z-index: 1;
+  height: 800px;
+  top: 0%;
+}
+
+.nutdong {
+  width: 45px;
+  height: 28px;
+  text-align: center;
+  margin: auto;
+  background: aqua;
+  color: blueviolet;
+  padding-top: 7px;
+  cursor: pointer;
+}
+
+.text {
+  padding: 10px 15px;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+  text-transform: uppercase;
+  color: blanchedalmond;
+  padding-bottom: 20px;
+}
+
+.noidung {
+  position: fixed;
+  width: 25%;
+  height: 300px;
+  background: red;
+  color: white;
+  padding: 27px 29px;
+  left: 36%;
+  top: 22%;
+  z-index: 2;
+}
+
+.nut:hover {
+  background: yellow;
+  color: black;
+}
+
+.nut {
+  background: green;
+  color: wheat;
+  width: 144px;
+  text-align: center;
+  cursor: pointer;
+  padding: 10px 15px;
+  border-radius: 12px;
+}
+
+.phai {
+  width: 45%;
+  float: left;
+}
+
+.trai {
+  width: 50%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chia2cot {
+  width: 1000px;
+  margin: auto;
+  height: 200px;
+  padding-top: 49px;
+  font-size: 30px;
+  color: #356767;
+}
+
+.title {
+  text-align: center;
+  padding: 10px 20px;
+  font-size: 20px;
+}
+
+body {
+  background: burlywood;
+}
