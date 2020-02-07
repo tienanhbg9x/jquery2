@@ -1,0 +1,134 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.lop_mo {
+  background: hsla(0, 0%, 0%, 0.3);
+  width: 100%;
+  position: fixed;
+  z-index: 1;
+  height: 100%;
+  top: 0%;
+  visibility: hidden;
+  opacity: 0;
+}
+
+.lop_mo.show {
+  opacity: 1;
+  visibility: visible;
+}
+
+.nutdong {
+  width: 45px;
+  height: 28px;
+  text-align: center;
+  margin: auto;
+  background: aqua;
+  color: blueviolet;
+  padding-top: 7px;
+  cursor: pointer;
+}
+
+.text {
+  padding: 10px 15px;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+  text-transform: uppercase;
+  color: blanchedalmond;
+  padding-bottom: 20px;
+}
+
+.dadnoidung {
+  position: fixed;
+  width: 500px;
+  height: 300px;
+  padding: 27px 29px;
+  left: 50%;
+  top:  50%;
+  z-index: 3;
+  perspective: 1000px;
+  margin-top: -150px;
+  margin-left: -250px;
+  visibility: hidden;
+}
+.noidung {
+  position: fixed;
+  width: 500px;
+  height: 300px;
+  background: red;
+  color: white;
+  padding: 27px 29px;
+  left: 50%;
+  top:  50%;
+  z-index: 2;
+  visibility: hidden;
+  /*thời gian hiệu ứng nhanh hay chậm*/
+  transition: 0.3s;
+  /*Hiệu ứng zoom*/
+  /*transform: scale(0.3);*/
+  /*Hiệu ứng từ phải qua*/
+  transform-origin: 50% 50%;
+  /*transform: rotate(45deg) scale(3);*/
+  opacity: 0;
+  transform: rotateY(90deg);
+  margin-top: -150px;
+  margin-left: -250px;
+}
+
+.noidung.noi-dung-hien-ra {
+  opacity: 1;
+  visibility: visible;
+  transform: rotateY(0deg);
+  /*transform: rotate(0deg) scale(1);*/
+  /*transform: scale(1);*/
+  /*  phóng to */
+}
+
+.nut:hover {
+  background: yellow;
+  color: black;
+}
+
+.nut {
+  background: green;
+  color: wheat;
+  width: 144px;
+  text-align: center;
+  cursor: pointer;
+  padding: 10px 15px;
+  border-radius: 12px;
+}
+
+.phai {
+  width: 45%;
+  float: left;
+}
+
+.trai {
+  width: 50%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chia2cot {
+  width: 1000px;
+  margin: auto;
+  height: 200px;
+  padding-top: 49px;
+  font-size: 30px;
+  color: #356767;
+}
+
+.title {
+  text-align: center;
+  padding: 10px 20px;
+  font-size: 20px;
+}
+
+body {
+  background: burlywood;
+}

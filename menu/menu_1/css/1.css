@@ -1,0 +1,131 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.text {
+    width: 1000px;
+    margin: auto;
+}
+
+.images {
+    height: 572px;
+    background: url(../img/h2n.jpg);
+    width: 100%;
+    background-size: contain;
+}
+.change {
+    background: gray;
+}
+
+.menu.change {
+    background: gray;
+    height: 70px;
+    margin-top: 0px;
+}
+.content {
+    width: 100%;
+    margin: auto;
+    font-size: 17px;
+    font-family: 'Pacifico', cursive;
+    line-height: 27px;
+    color: gray;
+}
+
+.menu-right ul li a {
+    text-decoration: none;
+    font-size: 20px;
+    padding: 4px 15px;
+    display: block;
+    text-transform: uppercase;
+    color: yellow;
+    font-family: 'Kaushan Script', cursive;
+}
+
+.menu-right li {
+    float: left;
+    margin: 24px;
+    list-style: none;
+}
+
+.change .right ul li a {
+    font-size: 14px;
+    text-align: center;
+}
+
+.menu-right {
+    float: right;
+}
+
+a.logo {
+    font-family: 'Kaushan Script', cursive;
+    text-decoration: none;
+    font-size: 30px;
+    color: orange;
+    padding: 22px 0px;
+    display: block;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Kaushan+Script|Merriweather|Oswald|Pacifico&display=swap');
+
+.right {
+    width: 70%;
+    float: left;
+    text-align: center;
+}
+
+.left {
+    width: 30%;
+    float: left;
+}
+
+.change .left a {
+    font-size: 21px;
+    text-align: center;
+}
+
+.center {
+    width: 1200px;
+    margin: auto;
+}
+
+.menu {
+    width: 100%;
+    height: 96px;
+    background: #80808000;
+    position: fixed;
+    top: 0px;
+    transition: 0.5s;
+}
+
+a.on-top:hover{
+    background-color: #007bb6;
+    color: #fff;
+    border: 1px solid #007bb6;
+    opacity:1;
+}
+a.on-top i{ font-size: 20px;}
+a.on-top {
+    border-radius: 7px;
+    background-color: #9e9e9e;
+    padding: 10px 20px;
+    white-space: nowrap;
+    color: #fff;
+    position: fixed;
+    bottom: 43px;
+    right: 39px;
+    height: 38px;
+    z-index: 9999;
+    visibility: hidden;
+    opacity: 0;
+    cursor: pointer;
+}
+
+a.on-top.show {
+    visibility: visible;
+    opacity: 1;
+    transition: 0.5s;
+}
+.up {
+    margin-top: 11px;
+}

@@ -53,19 +53,23 @@ h3 {
   top: 50%;
   z-index: 2;
   visibility: hidden;
-  opacity: 0;
-  transform: scale(0.3);
   transition: 0.4s;
+  /*Hiệu ứng zoom*/
+  /*transform: scale(0.3);*/
+  /*Hiệu ứng từ phải qua*/
+  transform: translateX(200px);
+  opacity: 0;
+
   margin-top: -150px;
   margin-left: -250px;
 }
 
 .noidung.noi-dung-hien-ra {
-  transition: 0.4s;
   opacity: 1;
   visibility: visible;
-  transform: scale(1);
-  /*  thuá»™c tÃ­nh phÃ³ng to */
+  transform: translateX(0px);
+  /*transform: scale(1);*/
+  /* phóng to */
 }
 
 .nut:hover {

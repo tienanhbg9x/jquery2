@@ -2,13 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f707d0d-0dac-494b-a91a-1e4ca3c5f9f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/effect slide/css/1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/effect slide/effectslide.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/effect slide/img/img_share (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/effect slide/img/img_share (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/effect slide/img/img_share (3).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/effect slide/img/img_share (4).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/effect slide/img/mũi_tên_phải.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/effect slide/img/mũi_tên_trái.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/effect slide/js/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/effect slide/js/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file_mau/bai_demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file_mau/css/1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file_mau/js/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file_mau/js/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/menu_1/css/1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/menu_1/img/h2n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/menu_1/js/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/menu_1/js/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/menu_1/menu_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/menu_2/css/1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/menu_2/css/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/menu_2/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/menu_2/img/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/menu_2/img/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/menu_2/img/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/menu_2/img/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/menu_2/img/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/menu_2/img/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/menu_2/img/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/menu_2/js/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/menu_2/js/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/menu_2/menu_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pushmenu/css/1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pushmenu/js/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pushmenu/js/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pushmenu/pushmenu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/modalbox.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/modalbox.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/modalbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/modalbox.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modalbox.html" beforeDir="false" afterPath="$PROJECT_DIR$/modalbox.html" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,101 +52,21 @@
       <executable />
     </execution>
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modalbox.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/modalbox.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2394">
-              <caret line="114" selection-start-line="114" selection-end-line="114" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/modalbox.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/js/1.js" />
-        <option value="$PROJECT_DIR$/1.html" />
-        <option value="$PROJECT_DIR$/css/1.css" />
-        <option value="$PROJECT_DIR$/css/bai5.css" />
-        <option value="$PROJECT_DIR$/bai5.html" />
-        <option value="$PROJECT_DIR$/css/modalbox.scss" />
-        <option value="$PROJECT_DIR$/modalbox.html" />
-        <option value="$PROJECT_DIR$/js/modalbox.js" />
-        <option value="$PROJECT_DIR$/css/modalbox.css" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1247" />
-    <option name="height" value="1056" />
-  </component>
   <component name="ProjectId" id="1V9JYfBJKI8cae5ntJNenHi6Zjt" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="jquery2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jquery2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jquery2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jquery2" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jquery2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jquery2" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -121,24 +74,22 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pushmenu/js" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.22962226" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\jquery2\pushmenu\js" />
+      <recent name="C:\xampp\htdocs\jquery2\pushmenu" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -170,105 +121,45 @@
       <workItem from="1579097893071" duration="1838000" />
       <workItem from="1579140935931" duration="5129000" />
       <workItem from="1579326914567" duration="388000" />
+      <workItem from="1580717723616" duration="48000" />
+      <workItem from="1580717904941" duration="6252000" />
+      <workItem from="1580741828029" duration="68000" />
+      <workItem from="1580741955335" duration="31000" />
+      <workItem from="1580742116308" duration="185000" />
+      <workItem from="1580742326827" duration="145000" />
+      <workItem from="1580743210242" duration="86000" />
+      <workItem from="1580744112866" duration="2085000" />
+      <workItem from="1580777152316" duration="4805000" />
+      <workItem from="1580832695998" duration="8859000" />
+      <workItem from="1580873801855" duration="8540000" />
+      <workItem from="1580900433624" duration="1930000" />
+      <workItem from="1580912996196" duration="14153000" />
+      <workItem from="1581057727125" duration="4033000" />
+      <workItem from="1581066208373" duration="715000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20105000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1186" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16542156" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3292683" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="1553" y="1" key="SettingsEditor" timestamp="1576661168620">
-      <screen x="1366" y="0" width="1366" height="768" />
+    <state x="467" y="227" key="#Inspections" timestamp="1580971837471">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="467" y="227" key="#Inspections/1920.0.1920.1050/0.0.1920.1170@0.0.1920.1170" timestamp="1580971837471" />
+    <state x="263" y="2" key="SettingsEditor" timestamp="1580900415028">
+      <screen x="0" y="0" width="1920" height="1170" />
     </state>
     <state x="1553" y="1" key="SettingsEditor/0.27.1366.708/1366.0.1366.768@1366.0.1366.768" timestamp="1576661168620" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bai3.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.js" />
-    <entry file="file://$PROJECT_DIR$/bai5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/bai5.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="76" selection-start-line="76" selection-end-line="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/bai5.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/bai3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/bai4.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modalbox.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/modalbox.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2394">
-          <caret line="114" selection-start-line="114" selection-end-line="114" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/modalbox.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
+    <state x="263" y="2" key="SettingsEditor/1920.0.1920.1050/0.0.1920.1170@0.0.1920.1170" timestamp="1580900415028" />
+    <state x="2183" y="2" key="SettingsEditor/1920.0.1920.1050/0.0.1920.1170@1920.0.1920.1050" timestamp="1580744484433" />
+    <state x="661" y="410" key="com.intellij.ide.util.TipDialog" timestamp="1581066208266">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="661" y="410" key="com.intellij.ide.util.TipDialog/1920.0.1920.1050/0.0.1920.1170@0.0.1920.1170" timestamp="1581066208266" />
+    <state x="2581" y="368" key="com.intellij.ide.util.TipDialog/1920.0.1920.1050/0.0.1920.1170@1920.0.1920.1050" timestamp="1580873802911" />
   </component>
 </project>
