@@ -2,45 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f707d0d-0dac-494b-a91a-1e4ca3c5f9f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/effect slide/css/1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/effect slide/effectslide.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/effect slide/img/img_share (1).jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/effect slide/img/img_share (2).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/effect slide/img/img_share (3).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/effect slide/img/img_share (4).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/effect slide/img/mũi_tên_phải.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/effect slide/img/mũi_tên_trái.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/effect slide/js/1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/effect slide/js/jquery-3.4.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file_mau/bai_demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file_mau/css/1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file_mau/js/1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file_mau/js/jquery-3.4.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/menu_1/css/1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/menu_1/img/h2n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/menu_1/js/1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/menu_1/js/jquery-3.4.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/menu_1/menu_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/menu_2/css/1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/menu_2/css/animate.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/menu_2/img/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/menu_2/img/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/menu_2/img/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/menu_2/img/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/menu_2/img/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/menu_2/img/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/menu_2/img/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/menu_2/img/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/menu_2/js/1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/menu_2/js/jquery-3.4.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/menu_2/menu_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pushmenu/css/1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pushmenu/js/1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pushmenu/js/jquery-3.4.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pushmenu/pushmenu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/modalbox.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/modalbox.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +98,8 @@
       <workItem from="1580900433624" duration="1930000" />
       <workItem from="1580912996196" duration="14153000" />
       <workItem from="1581057727125" duration="4033000" />
-      <workItem from="1581066208373" duration="715000" />
+      <workItem from="1581066208373" duration="1371000" />
+      <workItem from="1581253219585" duration="34000" />
     </task>
     <servers />
   </component>
@@ -156,10 +120,10 @@
     <state x="1553" y="1" key="SettingsEditor/0.27.1366.708/1366.0.1366.768@1366.0.1366.768" timestamp="1576661168620" />
     <state x="263" y="2" key="SettingsEditor/1920.0.1920.1050/0.0.1920.1170@0.0.1920.1170" timestamp="1580900415028" />
     <state x="2183" y="2" key="SettingsEditor/1920.0.1920.1050/0.0.1920.1170@1920.0.1920.1050" timestamp="1580744484433" />
-    <state x="661" y="410" key="com.intellij.ide.util.TipDialog" timestamp="1581066208266">
+    <state x="661" y="410" key="com.intellij.ide.util.TipDialog" timestamp="1581253224502">
       <screen x="0" y="0" width="1920" height="1170" />
     </state>
-    <state x="661" y="410" key="com.intellij.ide.util.TipDialog/1920.0.1920.1050/0.0.1920.1170@0.0.1920.1170" timestamp="1581066208266" />
+    <state x="661" y="410" key="com.intellij.ide.util.TipDialog/1920.0.1920.1050/0.0.1920.1170@0.0.1920.1170" timestamp="1581253224502" />
     <state x="2581" y="368" key="com.intellij.ide.util.TipDialog/1920.0.1920.1050/0.0.1920.1170@1920.0.1920.1050" timestamp="1580873802911" />
   </component>
 </project>
