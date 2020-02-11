@@ -16,6 +16,7 @@ $(function () {
         //  } else {
         //    $('.menu').removeClass('change')
         //  }
+
     //nút trở về đầu trang
         if(location >= 1500) {
              $(".on-top").addClass('show')

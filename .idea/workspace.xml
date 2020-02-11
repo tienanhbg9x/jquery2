@@ -2,8 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f707d0d-0dac-494b-a91a-1e4ca3c5f9f6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/thư viện animate.css/css/1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/thư viện animate.css/css/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/thư viện animate.css/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/thư viện animate.css/img/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/thư viện animate.css/img/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/thư viện animate.css/img/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/thư viện animate.css/img/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/thư viện animate.css/img/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/thư viện animate.css/img/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/thư viện animate.css/img/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/thư viện animate.css/js/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/thư viện animate.css/js/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/thư viện animate.css/menu_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/wow.js/WOW-master.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/wow.js/bai_demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/wow.js/css/1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/wow.js/css/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/wow.js/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/wow.js/img/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/wow.js/img/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/wow.js/img/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/wow.js/img/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/wow.js/img/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/wow.js/img/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/wow.js/img/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/wow.js/js/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/wow.js/js/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/wow.js/js/wow.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jquery.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jquery.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/menu_2/css/1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/menu_2/css/animate.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/menu_2/img/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/menu_2/img/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/menu_2/img/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/menu_2/img/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/menu_2/img/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/menu_2/img/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/menu_2/img/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/menu_2/img/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/menu_2/js/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/menu_2/js/jquery-3.4.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/menu_2/menu_2.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +86,7 @@
     <property name="add_unversioned_files" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pushmenu/js" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="settings.editor.splitter.proportion" value="0.22962226" />
   </component>
   <component name="RecentsManager">
@@ -99,7 +140,10 @@
       <workItem from="1580912996196" duration="14153000" />
       <workItem from="1581057727125" duration="4033000" />
       <workItem from="1581066208373" duration="1371000" />
-      <workItem from="1581253219585" duration="34000" />
+      <workItem from="1581253219585" duration="715000" />
+      <workItem from="1581326663483" duration="674000" />
+      <workItem from="1581331737558" duration="5151000" />
+      <workItem from="1581388008322" duration="4528000" />
     </task>
     <servers />
   </component>
@@ -114,16 +158,16 @@
       <screen x="0" y="0" width="1920" height="1170" />
     </state>
     <state x="467" y="227" key="#Inspections/1920.0.1920.1050/0.0.1920.1170@0.0.1920.1170" timestamp="1580971837471" />
-    <state x="263" y="2" key="SettingsEditor" timestamp="1580900415028">
-      <screen x="0" y="0" width="1920" height="1170" />
+    <state x="2183" y="2" key="SettingsEditor" timestamp="1581389189213">
+      <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state x="1553" y="1" key="SettingsEditor/0.27.1366.708/1366.0.1366.768@1366.0.1366.768" timestamp="1576661168620" />
-    <state x="263" y="2" key="SettingsEditor/1920.0.1920.1050/0.0.1920.1170@0.0.1920.1170" timestamp="1580900415028" />
-    <state x="2183" y="2" key="SettingsEditor/1920.0.1920.1050/0.0.1920.1170@1920.0.1920.1050" timestamp="1580744484433" />
-    <state x="661" y="410" key="com.intellij.ide.util.TipDialog" timestamp="1581253224502">
+    <state x="263" y="2" key="SettingsEditor/1920.0.1920.1050/0.0.1920.1170@0.0.1920.1170" timestamp="1581388146044" />
+    <state x="2183" y="2" key="SettingsEditor/1920.0.1920.1050/0.0.1920.1170@1920.0.1920.1050" timestamp="1581389189213" />
+    <state x="661" y="410" key="com.intellij.ide.util.TipDialog" timestamp="1581388007094">
       <screen x="0" y="0" width="1920" height="1170" />
     </state>
-    <state x="661" y="410" key="com.intellij.ide.util.TipDialog/1920.0.1920.1050/0.0.1920.1170@0.0.1920.1170" timestamp="1581253224502" />
-    <state x="2581" y="368" key="com.intellij.ide.util.TipDialog/1920.0.1920.1050/0.0.1920.1170@1920.0.1920.1050" timestamp="1580873802911" />
+    <state x="661" y="410" key="com.intellij.ide.util.TipDialog/1920.0.1920.1050/0.0.1920.1170@0.0.1920.1170" timestamp="1581388007094" />
+    <state x="2581" y="368" key="com.intellij.ide.util.TipDialog/1920.0.1920.1050/0.0.1920.1170@1920.0.1920.1050" timestamp="1581331738019" />
   </component>
 </project>

@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.noidung {
+    background: lightblue;
+    padding: 100px 0px;
+    overflow: hidden;
+}
+
+.cangiua {
+    width: 1000px;
+    margin: auto;
+}
+
+.anh {
+    width: 30%;
+    float: left;
+    margin-right: 5%;
+    margin-bottom: 10px;
+}
+ .anh:nth-child(3n+3) {
+     margin-right: 0;
+ }
+ .text {
+     margin: auto;
+     width: 1000px;
+     font-family: "Segoe UI Light";
+ }
+ .text.xanh {
+     background: gray;
+     color: white;
+ }
