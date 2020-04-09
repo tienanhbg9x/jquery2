@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en" xmlns:v-bind="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>VUE</title>
+    <link rel="stylesheet" href="">
+</head>
+<body>
+    <div id="app">
+        {{ message }}
+        <hr>
+        <span v-bind:title="notification">
+            Rê chuột lên đây
+        </span>
+        <hr>
+        <span v-if="seen">V-IF</span>
+        <hr>
+        <ol>
+            <li v-for="todo in todos">
+                {{ todo.text }}
+            </li>
+        </ol>
+    </div>
+    <div id="app-2">
+        <p>{{message}}</p>
+        <button @click="reverseMessage">Click me</button>
+        <input type="text" v-model="message">
+        <hr>
+    </div>
+    <div id="app-3">
+        <p>Những thứ họ mua:</p>
+        <ol>
+            <todo-item
+                    v-for="item in groceryList"
+                    v-bind:todo="item"
+                    v-bind:key="item.id">
+            </todo-item>
+        </ol>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+    <script>
+        let app = new Vue({
+            el: '#app',
+            data: {
+                message: 'hello world',
+                notification: 'Bạn đã mở trang này vào' + new Date().toLocaleString(),
+                seen: true,
+                todos: [
+                    {text: 'Học JavaScript'},
+                    {text: 'Học Vue'},
+                    {text: 'Xây dựng cái gì đó hay ho'}
+                ],
+            }
+        });
+    </script>
+    <script>
+        let app2 = new Vue({
+            el: '#app-2',
+            data: {
+                message: 'sử dụng v-on'
+            },
+            methods: {
+                reverseMessage: function () {
+                    this.message = this.message.split(' ').reverse().join(' ')
+                }
+            }
+        });
+
+    </script>
+    <script>
+        Vue.component('todo-item', {
+            props: ['todo'],
+            template: '<li>{{ todo.text }}</li>'
+        });
+        let app3 = new Vue({
+            el: '#app-3',
+            data:{
+                groceryList: [
+                    { id: 0, text: 'Cà pháo' },
+                    { id: 1, text: 'Mắm tôm' },
+                    { id: 2, text: 'Miễn ăn được là được' }
+                ]
+            }
+        })
+    </script>
+</body>
+</html>

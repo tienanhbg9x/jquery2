@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.text {
+    width: 1000px;
+    margin: 20px auto auto;
+    background: gray;
+    color: lightblue;
+}
+@media only screen and (max-width: 768px) {
+    .text {
+        width: 50%;
+        background: red;
+    }
+}

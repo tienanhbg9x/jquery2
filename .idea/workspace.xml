@@ -2,49 +2,94 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f707d0d-0dac-494b-a91a-1e4ca3c5f9f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/menu/thư viện animate.css/css/1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/thư viện animate.css/css/animate.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/thư viện animate.css/img/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/thư viện animate.css/img/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/thư viện animate.css/img/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/thư viện animate.css/img/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/thư viện animate.css/img/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/thư viện animate.css/img/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/thư viện animate.css/img/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/thư viện animate.css/img/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/thư viện animate.css/js/1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/thư viện animate.css/js/jquery-3.4.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/thư viện animate.css/menu_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/wow.js/WOW-master.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/wow.js/bai_demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/wow.js/css/1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/wow.js/css/animate.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/wow.js/img/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/wow.js/img/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/wow.js/img/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/wow.js/img/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/wow.js/img/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/wow.js/img/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/wow.js/img/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/wow.js/img/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/wow.js/js/1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/wow.js/js/jquery-3.4.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/wow.js/js/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VUE/vue-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VUE/vue-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VUE/vue.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu_2_cấp/01.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu_2_cấp/01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu_2_cấp/02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu_2_cấp/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu_2_cấp/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu_2_cấp/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/responsive/1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/responsive/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/bai_demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/css/1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/js/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/js/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thư viện animate.css/css/1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thư viện animate.css/css/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thư viện animate.css/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thư viện animate.css/img/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thư viện animate.css/img/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thư viện animate.css/img/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thư viện animate.css/img/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thư viện animate.css/img/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thư viện animate.css/img/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thư viện animate.css/img/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thư viện animate.css/js/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thư viện animate.css/js/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thư viện animate.css/menu_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thư viện isotope/bai_demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thư viện isotope/css/1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thư viện isotope/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thư viện isotope/img/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thư viện isotope/img/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thư viện isotope/img/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thư viện isotope/img/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thư viện isotope/img/6.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thư viện isotope/img/7.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thư viện isotope/img/8.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thư viện isotope/img/9.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thư viện isotope/js/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thư viện isotope/js/isotope.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thư viện isotope/js/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wow.js/WOW-master.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wow.js/bai_demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wow.js/css/1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wow.js/css/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wow.js/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wow.js/img/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wow.js/img/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wow.js/img/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wow.js/img/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wow.js/img/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wow.js/img/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wow.js/img/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wow.js/js/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wow.js/js/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wow.js/js/wow.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/jquery.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jquery.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu/menu_2/css/1.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu/menu_2/css/animate.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu/menu_2/img/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu/menu_2/img/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu/menu_2/img/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu/menu_2/img/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu/menu_2/img/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu/menu_2/img/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu/menu_2/img/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu/menu_2/img/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu/menu_2/js/1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu/menu_2/js/jquery-3.4.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu/menu_2/menu_2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/thư viện animate.css/css/1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/thư viện animate.css/css/animate.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/thư viện animate.css/img/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/thư viện animate.css/img/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/thư viện animate.css/img/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/thư viện animate.css/img/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/thư viện animate.css/img/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/thư viện animate.css/img/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/thư viện animate.css/img/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/thư viện animate.css/img/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/thư viện animate.css/js/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/thư viện animate.css/js/jquery-3.4.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/thư viện animate.css/menu_2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/wow.js/WOW-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/wow.js/bai_demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/wow.js/css/1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/wow.js/css/animate.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/wow.js/img/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/wow.js/img/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/wow.js/img/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/wow.js/img/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/wow.js/img/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/wow.js/img/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/wow.js/img/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/wow.js/img/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/wow.js/js/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/wow.js/js/jquery-3.4.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu/wow.js/js/wow.min.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,14 +105,15 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3" />
   <component name="ProjectId" id="1V9JYfBJKI8cae5ntJNenHi6Zjt" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -84,28 +130,17 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pushmenu/js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sns-line" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.22962226" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\jquery2" />
       <recent name="C:\xampp\htdocs\jquery2\pushmenu\js" />
       <recent name="C:\xampp\htdocs\jquery2\pushmenu" />
     </key>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -143,31 +178,68 @@
       <workItem from="1581253219585" duration="715000" />
       <workItem from="1581326663483" duration="674000" />
       <workItem from="1581331737558" duration="5151000" />
-      <workItem from="1581388008322" duration="4528000" />
+      <workItem from="1581388008322" duration="8988000" />
+      <workItem from="1581521714884" duration="683000" />
+      <workItem from="1581522479023" duration="1971000" />
+      <workItem from="1581532046775" duration="50000" />
+      <workItem from="1582126114936" duration="172000" />
+      <workItem from="1582127503782" duration="1687000" />
+      <workItem from="1582769460437" duration="10917000" />
+      <workItem from="1582780597158" duration="582000" />
+      <workItem from="1585725801839" duration="1948000" />
+      <workItem from="1585728186252" duration="4536000" />
+      <workItem from="1585877182827" duration="263000" />
+      <workItem from="1585878157878" duration="3659000" />
+      <workItem from="1586092816088" duration="1918000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="467" y="227" key="#Inspections" timestamp="1580971837471">
-      <screen x="0" y="0" width="1920" height="1170" />
-    </state>
-    <state x="467" y="227" key="#Inspections/1920.0.1920.1050/0.0.1920.1170@0.0.1920.1170" timestamp="1580971837471" />
-    <state x="2183" y="2" key="SettingsEditor" timestamp="1581389189213">
+    <state x="2387" y="204" key="#Inspections" timestamp="1582770689009">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
-    <state x="1553" y="1" key="SettingsEditor/0.27.1366.708/1366.0.1366.768@1366.0.1366.768" timestamp="1576661168620" />
+    <state x="467" y="227" key="#Inspections/1920.0.1920.1050/0.0.1920.1170@0.0.1920.1170" timestamp="1580971837471" />
+    <state x="2387" y="204" key="#Inspections/1920.0.1920.1050/0.0.1920.1170@1920.0.1920.1050" timestamp="1582770689009" />
+    <state x="2599" y="81" key="#PHP" timestamp="1582772275252">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2599" y="81" key="#PHP/1920.0.1920.1050/0.0.1920.1170@1920.0.1920.1050" timestamp="1582772275252" />
+    <state x="2660" y="281" key="FileChooserDialogImpl" timestamp="1586096460576">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2660" y="281" key="FileChooserDialogImpl/1920.0.1920.1050/0.0.1920.1170@1920.0.1920.1050" timestamp="1586096460576" />
+    <state x="2714" y="445" key="NewPhpFileDialog" timestamp="1582781002905">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2714" y="445" key="NewPhpFileDialog/1920.0.1920.1050/0.0.1920.1170@1920.0.1920.1050" timestamp="1582781002905" />
+    <state x="2183" y="2" key="SettingsEditor" timestamp="1582770847180">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
     <state x="263" y="2" key="SettingsEditor/1920.0.1920.1050/0.0.1920.1170@0.0.1920.1170" timestamp="1581388146044" />
-    <state x="2183" y="2" key="SettingsEditor/1920.0.1920.1050/0.0.1920.1170@1920.0.1920.1050" timestamp="1581389189213" />
-    <state x="661" y="410" key="com.intellij.ide.util.TipDialog" timestamp="1581388007094">
-      <screen x="0" y="0" width="1920" height="1170" />
+    <state x="2183" y="2" key="SettingsEditor/1920.0.1920.1050/0.0.1920.1170@1920.0.1920.1050" timestamp="1582770847180" />
+    <state x="2581" y="368" key="com.intellij.ide.util.TipDialog" timestamp="1585877247543">
+      <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state x="661" y="410" key="com.intellij.ide.util.TipDialog/1920.0.1920.1050/0.0.1920.1170@0.0.1920.1170" timestamp="1581388007094" />
-    <state x="2581" y="368" key="com.intellij.ide.util.TipDialog/1920.0.1920.1050/0.0.1920.1170@1920.0.1920.1050" timestamp="1581331738019" />
+    <state x="2581" y="368" key="com.intellij.ide.util.TipDialog/1920.0.1920.1050/0.0.1920.1170@1920.0.1920.1050" timestamp="1585877247543" />
   </component>
 </project>

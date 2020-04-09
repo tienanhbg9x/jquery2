@@ -1,0 +1,23 @@
+$font_1:"Segoe UI Light";
+
+a.text {
+  position: relative;
+  text-decoration: none;
+  font-family: $font_1;
+  color: black;
+  span {
+
+  }
+  div.line {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0%;
+    height: 2px;
+    background: aqua;
+    transition: 0.4s;
+  }
+  &:hover div{
+    width: 100%;
+  }
+}

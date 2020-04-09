@@ -1,0 +1,19 @@
+.text {
+    height: 40px;
+    font-size: 25px;
+    width: 200px;
+    margin: auto;
+    text-align: center;
+    margin-top: 100px;
+    text-transform: uppercase;
+    overflow: hidden;
+}
+.text .text-small {
+    position: relative;
+    top: 50px;
+    transition: 0.4s;
+}
+
+.text:hover .text-small {
+    top: 0;
+}
